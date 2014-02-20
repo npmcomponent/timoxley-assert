@@ -27,7 +27,7 @@
 // from https://github.com/joyent/node/blob/72bc4dcda4cfa99ed064419e40d104bd1b2e0e25/lib/assert.js
 
 // UTILITY
-var inherit = require('inherit');
+var inherit = require('component-inherit');
 var pSlice = Array.prototype.slice;
 
 // 1. The assert module provides functions that throw
